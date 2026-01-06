@@ -94,11 +94,17 @@ Clustering quality metrics: Silhouette score, Davies–Bouldin index
 
 ## Project Structure
 project.ipynb  - Main notebook: preprocessing, supervised models, clustering, and evaluation
+
 Traffic_Crashes_-_Crashes.csv -  Raw traffic crashes dataset (managed with Git LFS)
+
 Project_Final_WriteUp.docx   - Final project report (written submission)
+
 requirements.txt  -Python dependencies
+
 .gitignore - Git ignore configuration
+
 .gitattributes  - Git LFS configuration
+
 README.md  - Project documentation
 
 
