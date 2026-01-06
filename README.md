@@ -1,4 +1,15 @@
 Traffic Crashes Injury Prediction
+
+## Dataset Usage Note
+
+Due to its large size, the full dataset cannot be loaded directly from GitHub during execution.
+Therefore, the dataset must be downloaded manually from this repository before running the notebook.
+
+When downloaded from GitHub, the file may be saved with a .txt extension.
+This file is still a standard CSV-formatted dataset and should be read accordingly.
+
+After downloading the file and placing it in the project directory, the notebook can be executed normally
+
 Project Overview
 
 This project investigates traffic crash data from the Chicago Data Portal using both supervised and unsupervised machine learning approaches.
